@@ -11,3 +11,7 @@ A Weather Dashboard the allows users to see what the upcoming weather will look 
 
 ## Website
 https://tonymai6.github.io/Weather-API/
+
+## Screenshot
+
+![weather app screenshot](https://user-images.githubusercontent.com/114831060/203356201-367069c6-88bb-472b-ab90-974f6bd4fc48.jpg)
